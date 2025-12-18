@@ -1,16 +1,13 @@
-## Hi there 👋
+### Click Header Image or Video Title to Watch The Video
 
-<!--
-**naomiabrooks/naomiabrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Watch the video](https://img.youtube.com/vi/23HmafVhosU/maxresdefault.jpg)](https://youtu.be/23HmafVhosU)
 
-Here are some ideas to get you started:
+### [Naomi - Swim School (2025)](https://youtu.be/23HmafVhosU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Click Header Image or Video Title to Watch The Video
+
+[![Watch the video](https://img.youtube.com/vi/05gLyAlgYa4/maxresdefault.jpg)](https://youtu.be/05gLyAlgYa4)
+
+### [Naomi - Swim School 2 (2025)](https://youtu.be/05gLyAlgYa4)
