@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1>✨ Hello, Welcome to Naomi Brooks' Scholastic Portfolio ✨</h1>
 
-<!--
-**naomiabrooks/naomiabrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>ABOUT ME</h2>
 
-Here are some ideas to get you started:
+### *Summary*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>**Goals:**</br>**Hobbies/Interest:**
+
+## <h2>🎓 Academics 🎓</h2>
+
+### [*Found Here*](https://github.com/naomiabrooks/naomiabrooks/blob/Academics/README.md) 
+
+>**Highlights:** 
+
+## <h2>⚙️ STEM Projects ⚙️</h2>
+
+### [*Found Here*](https://github.com/naomiabrooks/naomiabrooks/blob/STEM-Projects/README.md)
+
+>**Highlights:**  
+
+
+## <h2>📝 Assignments & Projects 📝</h2>
+
+### • [*Found Here*](https://github.com/naomiabrooks/naomiabrooks/blob/School-Projects/README.md)
+
+
+## <h2>🎭 Art Projects 🎨</h2>
+
+### • 🩰[*Dancing/Performing Arts*](https://github.com/naomiabrooks/naomiabrooks/blob/Performing-Arts/README.md)
+### • 🎨[*Other Art Projects*](https://github.com/naomiabrooks/naomiabrooks/blob/Art-Projects/README.md)
+
+>**Highlights:**
+
+## <h2>🏆 Awards/Recognition 🏆</h2>
+
+### [*Found Here*](https://github.com/naomiabrooks/naomiabrooks/blob/Awards/README.md)
+
+>**Highlights:**
+>
+## <h2>🎽 Athletics 🎽</h2>
+
+### • 🏊🏽‍♀️[*Swimming*](https://github.com/naomiabrooks/naomiabrooks/blob/Swimming/README.md)
+
+
+## <h2>🎗️ Volunteer/Community Service Activities 🎗️</h2>
+
+### • Coming Soon
+
+
+
+## <h2>Other Extracurricular Activities</h2>
+
+### • Coming Soon
