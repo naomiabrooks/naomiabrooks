@@ -1,16 +1,23 @@
-## Hi there 👋
+### Click Header Image or Video Title to Watch The Video
 
-<!--
-**naomiabrooks/naomiabrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Watch the video](https://img.youtube.com/vi/qRG-4_tDg5I/maxresdefault.jpg)](https://youtu.be/qRG-4_tDg5I)
 
-Here are some ideas to get you started:
+### [Naomi - Gymnastics (2025)](https://youtu.be/qRG-4_tDg5I)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Click Header Image or Video Title to Watch The Video
+
+[![Watch the video](https://img.youtube.com/vi/TtIIOzdF2_U/maxresdefault.jpg)](https://youtu.be/TtIIOzdF2_U)
+
+### [Naomi - Gymnastics 2 (2025)](https://youtu.be/TtIIOzdF2_U)
+
+
+
+
+### Click Header Image or Video Title to Watch The Video
+
+[![Watch the video](https://img.youtube.com/vi/VOG2WtPifcQ/maxresdefault.jpg)](https://youtu.be/VOG2WtPifcQ)
+
+### [Naomi - Cheerleading (2025)](https://youtu.be/VOG2WtPifcQ)
